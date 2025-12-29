@@ -4,6 +4,8 @@ End-to-end customer purchase behaviour analysis with Python, MySQL and Power BI 
 **Author:** Atharv Joshi  
 **Tools:** Python (pandas), MySQL/SQL, Power BI, Excel  
 **Date:** 2025
+**Email:** atharvjoshi382@gmail.com
+**LinkedIn:** atharvjoshi-92825b383
 
 ## Project Overview
 This project analyzes customer purchase behaviour downloaded it from kaggle using an end-to-end workflow: data cleaning in Python → feature engineering (age groups) → analytical queries in SQL → interactive visualization in Power BI. The goal is to discover which customer segments drive revenue and which segments respond to promotions.
@@ -30,3 +32,11 @@ This project analyzes customer purchase behaviour downloaded it from kaggle usin
 - Does education indirectly affect purchase amount via income?
 - Are loyal customers more responsive to promotions?
 - (See SQL folder for full queries and results.)
+
+ ## Key Findings (Summary)
+- Senior and Middle-Aged customers show higher purchase frequency and spending.
+- Regular customers contribute the highest total revenue due to higher volume.
+- Promotion response rates are similar across loyalty levels, indicating loyalty alone does not drive promotion effectiveness.
+- Electronics is the top revenue-generating product category across multiple regions.
+- Education indirectly influences purchase amount through income rather than directly.
+ 
