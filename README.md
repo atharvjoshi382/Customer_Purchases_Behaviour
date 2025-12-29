@@ -5,7 +5,7 @@ End-to-end customer purchase behaviour analysis with Python, MySQL and Power BI 
 **Tools:** Python (pandas), MySQL/SQL, Power BI, Excel  
 **Date:** 2025
 **Email:** atharvjoshi382@gmail.com
-**LinkedIn:** atharvjoshi-92825b383
+**LinkedIn:** https://www.linkedin.com/in/atharvjoshi-92825b383
 
 ## Project Overview
 This project analyzes customer purchase behaviour downloaded it from kaggle using an end-to-end workflow: data cleaning in Python → feature engineering (age groups) → analytical queries in SQL → interactive visualization in Power BI. The goal is to discover which customer segments drive revenue and which segments respond to promotions.
